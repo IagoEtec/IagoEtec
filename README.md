@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=Iago%20Coelho&fontSize=40&fontColor=ffffff">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo(a)!;Me+chamo+Iago+Coelho;Técnica+em+informática+para+Internet;Focada+em+criar+projetos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo(a)!;Me+chamo+Iago+Coelho;Técnico+em+informática+para+Internet;Focado+em+criar+projetos!)](https://git.io/typing-svg)
 
 ---
 
