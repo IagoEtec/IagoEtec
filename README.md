@@ -13,15 +13,6 @@ Olá! Sou a **Iago de Almeida Coelho**, e sou apaixonado por tecnologia. Estou m
         <img src="https://img.shields.io/badge/Instagram-i4gz.mille-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     
-    <a href="https://github.com/IagoEtec?tab=following" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/IagoEtec?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=github&label=Seguindo&logoColor=white" alt="Seguindo">
-    </a>
-    
-    <a href="https://github.com/IagoEtec?tab=stars" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/github/stars/IagoEtec?color=FF0000&style=for-the-badge&labelColor=8B0000&logo=star&label=Estrelas" alt="Total de Estrelas">
-    </a>
-</p>
-
 ---
 
 ### Tecnologias e Ferramentas
