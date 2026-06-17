@@ -1,3 +1,4 @@
+```md
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=Iago%20Coelho&fontSize=40&fontColor=ffffff">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo(a)!;Me+chamo+Iago+Coelho;Técnica+em+informática+para+Internet;Focada+em+criar+projetos!)](https://git.io/typing-svg)
@@ -12,11 +13,9 @@ Olá! Sou a **Iago de Almeida Coelho**, e sou apaixonado por tecnologia. Estou m
     <a href="https://www.instagram.com/i4gz.mille" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-i4gz.mille-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    
     <a href="https://github.com/IagoEtec?tab=following" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/IagoEtec?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=github&label=Seguindo&logoColor=white" alt="Seguindo">
+        <img src="https://custom-icon-badges.demolab.com/github/followers/IagoEtec?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores GitHub">
     </a>
-    
     <a href="https://github.com/IagoEtec?tab=stars" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/github/stars/IagoEtec?color=FF0000&style=for-the-badge&labelColor=8B0000&logo=star&label=Estrelas" alt="Total de Estrelas">
     </a>
@@ -46,3 +45,4 @@ Aqui estão as linguagens e frameworks com os quais já trabalhei e possuo exper
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+```
